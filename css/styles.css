@@ -1,0 +1,130 @@
+<!-- css/styles of 2026-aug.bauska.org -->
+body {
+  font-family:Helvetica;
+}
+table {
+  table-layout:fixed;
+  width:70%; 
+}
+.month-header {
+  background-image:url("https://2026-aug.bauska.org/images/mst3k-texaco-600.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:300px;
+  text-align:right;
+}
+
+h1 {
+  color:#FFF;
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-top:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+/* padding-bottom:150px; */
+.copyright-notice {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
+
+.weekday-header {
+  background-color:#999;  /* dark gray */
+  border-color:#ddd;  /* very light gray */
+  border-style:solid;
+  letter-spacing:1px;
+  line-height:25px;
+}
+.week {
+  background-color:#ffff00;  /* eaeaea = very light gray */
+  height:75px;
+  margin:0;
+  text-align:left;
+  vertical-align:top;
+}
+
+.off-day {
+  background-color:#ddd;  /* very light gray */
+}
+
+ul {
+    font-size:75%;
+    list-style:none;
+    padding-left:20px;
+    padding-right:5px;
+}
+
+.event {
+    border-radius:5px;
+    color:#10171c;  /* very dark (mostly black) blue */
+    padding:5px;
+    margin:5px 0;
+}
+
+.intl-beer {
+    background-color:#e8e193;  /* very soft yellow */
+}
+.natl-girlfriend {
+    background-color:#c2e7e7;  /* light grayish cyan */
+}
+.icecream-sandwich {
+    background-color:#ff8080;  /* very light red */
+}
+.friendship {
+    background-color:#ffe6cd;  /* very pale orange */
+}
+.obama {
+    background-color:#ffcde6;  /* very pale pink */
+}
+.intl-cat {
+    background-color:#cde6ff;  /* very pale blue */
+}
+.natl-rootbeer {
+    background-color:#ff9a9a;  /* pale red */
+}
+.natl-lazy {
+    background-color:#e6cdff;  /* very pale violet */
+}
+.world-lizard {
+    background-color:#ffd9b4;  /* pale orange */
+}
+.natl-tellajoke {
+    background-color:#ffe6b4;  /* pale orange */
+}
+.black-cat {
+    background-color:#ff9a9a;  /* pale red */
+}
+.world-humanitarian {
+    background-color:#9ab3ff;  /* pale blue */
+}
+.natl-radio {
+    background-color:#98fb98;  /* very soft lime green */
+}
+.senior-citizens {
+    background-color:#a6f4ff;  /* pale cyan */
+}
+.natl-tooth-fairy {
+    background-color:#ffc0cb;  /* very pale red (pink) */
+}
+.natl-waffle {
+    background-color:#ffff9a;  /* pale yellow */
+}
+.ukraine-independence {
+    background-color:#d3d3d3;  /* light gray */
+}
+.natl-dogday {
+    background-color:#9aff9a;  /* pale lime green */
+}
+.womens-equality {
+    background-color:#ff68ff;  /* very light magenta */
+}
+.intl-bacon {
+    background-color:#ccff9a;  /* pale green */
+}
