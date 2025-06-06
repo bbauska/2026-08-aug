@@ -1,2 +1,2 @@
-# 2026-aug
-Calendar for August, 2026.
+# Calendar-2025-Aug
+Calendar for August, 2025
